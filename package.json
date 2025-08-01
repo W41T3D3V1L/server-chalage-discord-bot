@@ -1,0 +1,15 @@
+{
+  "name": "qa-challenge-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for Q&A challenge with role assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "White Devil",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  }
+}
